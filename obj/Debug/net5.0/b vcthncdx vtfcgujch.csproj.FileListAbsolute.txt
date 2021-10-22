@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\b vcthncdx vtfcgujch\bin\Debug\net5.0\b vcthncdx vtfcgujch.exe
+C:\Users\Admin\Documents\b vcthncdx vtfcgujch\bin\Debug\net5.0\b vcthncdx vtfcgujch.deps.json
+C:\Users\Admin\Documents\b vcthncdx vtfcgujch\bin\Debug\net5.0\b vcthncdx vtfcgujch.runtimeconfig.json
+C:\Users\Admin\Documents\b vcthncdx vtfcgujch\bin\Debug\net5.0\b vcthncdx vtfcgujch.runtimeconfig.dev.json
+C:\Users\Admin\Documents\b vcthncdx vtfcgujch\bin\Debug\net5.0\b vcthncdx vtfcgujch.dll
+C:\Users\Admin\Documents\b vcthncdx vtfcgujch\bin\Debug\net5.0\ref\b vcthncdx vtfcgujch.dll
+C:\Users\Admin\Documents\b vcthncdx vtfcgujch\bin\Debug\net5.0\b vcthncdx vtfcgujch.pdb
+C:\Users\Admin\Documents\b vcthncdx vtfcgujch\obj\Debug\net5.0\b vcthncdx vtfcgujch.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\b vcthncdx vtfcgujch\obj\Debug\net5.0\b vcthncdx vtfcgujch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\b vcthncdx vtfcgujch\obj\Debug\net5.0\b vcthncdx vtfcgujch.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\b vcthncdx vtfcgujch\obj\Debug\net5.0\b vcthncdx vtfcgujch.AssemblyInfo.cs
+C:\Users\Admin\Documents\b vcthncdx vtfcgujch\obj\Debug\net5.0\b vcthncdx vtfcgujch.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\b vcthncdx vtfcgujch\obj\Debug\net5.0\b vcthncdx vtfcgujch.dll
+C:\Users\Admin\Documents\b vcthncdx vtfcgujch\obj\Debug\net5.0\ref\b vcthncdx vtfcgujch.dll
+C:\Users\Admin\Documents\b vcthncdx vtfcgujch\obj\Debug\net5.0\b vcthncdx vtfcgujch.pdb
+C:\Users\Admin\Documents\b vcthncdx vtfcgujch\obj\Debug\net5.0\b vcthncdx vtfcgujch.genruntimeconfig.cache
